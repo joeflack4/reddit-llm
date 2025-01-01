@@ -1,3 +1,6 @@
+# TODO temp
+*.txt
+
 # Boilerplate
 __pycache__/
 _archive/
